@@ -41,5 +41,5 @@ Retail businesses often face difficulty in tracking performance, identifying los
 - Reduces manual reporting through automated dashboards
 
 ## Screenshots / Demo
-(Add dashboard screenshots here)
+![image alt](https://github.com/wasiqqniaz/superstore-analysis-powerbi/blob/c35cb965f642c390054e23b7a0a5a8d44ed19a85/SuperStoreSales.PNG)
 
